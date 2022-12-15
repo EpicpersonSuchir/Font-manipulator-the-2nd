@@ -1,0 +1,18 @@
+#heading {
+    box-shadow: 6px 4px 6px antiquewhite;
+    padding: 4px;
+    margin: 3px;
+    width: 100%;}
+ #footer{box-shadow: 2px 3px 2px antiquewhite;
+    padding: 1px;
+    margin: 4px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: yellowgreen;
+    line-height: 4;
+    text-align: center;
+    color: blue;
+    font-size: 17px;
+
+ }
